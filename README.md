@@ -1,12 +1,32 @@
-# React + Vite
+# 🎨 Rehan Bagwan's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **personal portfolio website** — a dynamic, responsive, and animated showcase of my work, skills, and journey as a web developer.
 
-Currently, two official plugins are available:
+🌐 [Live Site](https://portfolio-i0sg.onrender.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Built With
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React + Vite** – Fast, modern frontend framework
+- 🌬️ **Tailwind CSS** – Utility-first CSS for beautiful, responsive design
+- 🎞️ **Framer Motion** – Smooth animations and transitions for interactive UX
+
+---
+
+## 📸 Features
+
+- 🔄 Smooth scroll animations and motion transitions  
+- 📱 Fully responsive across all devices  
+- 🧠 Projects, skills, and a clean contact section  
+- 🧼 Minimal, modern UI/UX  
+
+---
+
+## 📬 Connect With Me
+
+Feel free to reach out via the contact section on the site or connect through [LinkedIn](https://linkedin.com).
+
+---
+
+> Designed & developed with ❤️ by **Rehan Bagwan**
